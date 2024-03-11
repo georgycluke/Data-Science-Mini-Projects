@@ -1,1 +1,1 @@
-code for simple linear regression
+This folder comprises of mini data science projects
